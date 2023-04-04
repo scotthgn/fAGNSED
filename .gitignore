@@ -1,0 +1,10 @@
+###############################
+#Files generated when compiling
+###############################
+
+Makefile
+lib*
+lpack*
+pkgIndex.tcl
+*FunctionMap*
+fagnsed.o
